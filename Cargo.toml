@@ -1,6 +1,11 @@
 [package]
 name = "simple_totp_generator"
+description = "A simple totp generator using sha256 in Rust"
 version = "0.1.0"
+authors = ["anonimoux2k <anonimoux2k@gmail.com>"]
+repository = "https://github.com/anonimoux2k/simple-totp-generator"
+homepage = "https://github.com/anonimoux2k/simple-totp-generator"
+license = "Apache-2.0"
 edition = "2021"
 
 [dependencies]
